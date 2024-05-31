@@ -1,5 +1,7 @@
 Github repository with code and data used for first year (M1) memoire of Digital Humanities at École Nationale des Chartes. <br><br>
-This is a repository created with the explicit purpose of a public presentation of the research. The working repository, which contains more data and files with private credentials to access the Telegram API, is not public. To access it, ask permission to the author,
+This is a repository created with the explicit purpose of a public presentation of the research. The working repository, which contains more data and files with private credentials to access the Telegram API, is not public. Ask permission to the author to access it.
+
+The report in PDF is available here: https://nbviewer.org/github/savaij/M1_memoire/blob/main/report_latex/report.pdf 
 
 <br><br>
 
