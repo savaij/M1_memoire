@@ -1,0 +1,11 @@
+\babel@toc {english}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Snowball process with two iterations}}{6}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Number of nodes (i.e. channels) at each iteration for the different networks}}{8}{figure.2.2}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Network created from two almost separate edgelists}}{12}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Network created from two edgelists with significant overlaps}}{13}{figure.3.2}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Average degree of separation of the first $n$ largest communities}}{17}{figure.4.1}%
+\addvspace {10\p@ }

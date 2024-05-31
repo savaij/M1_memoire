@@ -1,0 +1,1081 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{zotero-206}{misc}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Alternative Right, commonly known as the "alt-right," is a set of far-right ideologies,~groups~and individuals whose core belief is that “white identity” is under attack by multicultural forces using “political correctness” and “social justice” to undermine white people and “their” civilization.}
+      \field{journaltitle}{Southern Poverty Law Center}
+      \field{langid}{english}
+      \field{title}{Alt-{{Right}}}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/JC6YKBTL/alt-right.html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.splcenter.org/fighting-hate/extremist-files/ideology/alt-right
+      \endverb
+      \verb{url}
+      \verb https://www.splcenter.org/fighting-hate/extremist-files/ideology/alt-right
+      \endverb
+      \keyw{secondary-source}
+    \endentry
+    \entry{alvisi2024}{misc}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b837a18883176d2f82d17c4fcb2a300b}{%
+           family={Alvisi},
+           familyi={A\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e829f15ab812cefa6e720b421cc38936}{%
+           family={Tardelli},
+           familyi={T\bibinitperiod},
+           given={Serena},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ecdd805138fc3cbc305e3e6137e30829}{%
+           family={Tesconi},
+           familyi={T\bibinitperiod},
+           given={Maurizio},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{bd84868c3ff7cbb49287442cce558dd0}
+      \strng{fullhash}{bd84868c3ff7cbb49287442cce558dd0}
+      \strng{bibnamehash}{bd84868c3ff7cbb49287442cce558dd0}
+      \strng{authorbibnamehash}{bd84868c3ff7cbb49287442cce558dd0}
+      \strng{authornamehash}{bd84868c3ff7cbb49287442cce558dd0}
+      \strng{authorfullhash}{bd84868c3ff7cbb49287442cce558dd0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Telegram has grown into a significant platform for news and information sharing, favored for its anonymity and minimal moderation. This openness, however, makes it vulnerable to misinformation and conspiracy theories. In this study, we explore the dynamics of conspiratorial narrative dissemination within Telegram, focusing on Italian and English landscapes. In particular, we leverage the mechanism of message forwarding within Telegram and collect two extensive datasets through snowball strategy. We adopt a network-based approach and build the Italian and English Telegram networks to reveal their respective communities. By employing topic modeling, we uncover distinct narratives and dynamics of misinformation spread. Results highlight differences between Italian and English conspiracy landscapes, with Italian discourse involving assorted conspiracy theories and alternative news sources intertwined with legitimate news sources, whereas English discourse is characterized by a more focused approach on specific narratives such as QAnon and political conspiracies. Finally, we show that our methodology exhibits robustness across initial seed selections, suggesting broader applicability. This study contributes to understanding information and misinformation spread on Italian and English Telegram ecosystems through the mechanism of message forwarding}
+      \field{eprintclass}{cs}
+      \field{eprinttype}{arxiv}
+      \field{month}{4}
+      \field{number}{arXiv:2404.18602}
+      \field{title}{Unraveling the {{Italian}} and {{English Telegram Conspiracy Spheres}} through {{Message Forwarding}}}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2404.18602
+      \endverb
+      \verb{eprint}
+      \verb 2404.18602
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/JBBUK9LX/Alvisi et al. - 2024 - Unraveling the Italian and English Telegram Conspi.pdf;/Users/sava/Zotero/storage/REAACSHN/2404.html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2404.18602
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2404.18602
+      \endverb
+      \keyw{Computer Science - Social and Information Networks,F.2.2 I.2.7,primary-source}
+    \endentry
+    \entry{baele2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4b6227fa648c0ccaa1dc742fa1bddc79}{%
+           family={Baele},
+           familyi={B\bibinitperiod},
+           given={Stephane\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7a4709188e1b13069b14c8aeb5f6e65}{%
+           family={Brace},
+           familyi={B\bibinitperiod},
+           given={Lewys},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1ae9c622538bfa57f44143573f570d9}{%
+           family={Coan},
+           familyi={C\bibinitperiod},
+           given={Travis\bibnamedelima G.},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{eafdfcf861552cd9b9c82ceffe355e63}
+      \strng{fullhash}{eafdfcf861552cd9b9c82ceffe355e63}
+      \strng{bibnamehash}{eafdfcf861552cd9b9c82ceffe355e63}
+      \strng{authorbibnamehash}{eafdfcf861552cd9b9c82ceffe355e63}
+      \strng{authornamehash}{eafdfcf861552cd9b9c82ceffe355e63}
+      \strng{authorfullhash}{eafdfcf861552cd9b9c82ceffe355e63}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper combines qualitative and quantitative content analysis to map and analyze the “Incel” worldview shared by members of a misogynistic online community ideologically linked to several recent acts of politically motivated violence, including Alek Minassian’s van attack in Toronto (2018) and Elliot Rodger’s school shooting in Isla Vista (2014). Specifically, the paper analyses how support and motivation for violence results from the particular structure this worldview presents in terms of social categories and causal narratives.}
+      \field{issn}{0954-6553}
+      \field{journaltitle}{Terrorism and Political Violence}
+      \field{month}{11}
+      \field{number}{8}
+      \field{shorttitle}{From “{{Incel}}” to “{{Saint}}”}
+      \field{title}{From “{{Incel}}” to “{{Saint}}”: {{Analyzing}} the violent worldview behind the 2018 {{Toronto}} attack}
+      \field{urlday}{17}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{33}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{1667\bibrangedash 1691}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1080/09546553.2019.1638256
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/09546553.2019.1638256
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/09546553.2019.1638256
+      \endverb
+      \keyw{Alek Minassian,content analysis,Elliot Rodger,extremism,Incel,internet,manosphere,misogyny,mixed methods,political violence,secondary-source,worldview}
+    \endentry
+    \entry{bovet2022}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2904d9f7995eda4025fc9ee326261b50}{%
+           family={Bovet},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c1afd365fc1c18641eb501f485dc125}{%
+           family={Grindrod},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{a5982bae521d9d3a1db295a64a5053b8}
+      \strng{fullhash}{a5982bae521d9d3a1db295a64a5053b8}
+      \strng{bibnamehash}{a5982bae521d9d3a1db295a64a5053b8}
+      \strng{authorbibnamehash}{a5982bae521d9d3a1db295a64a5053b8}
+      \strng{authornamehash}{a5982bae521d9d3a1db295a64a5053b8}
+      \strng{authorfullhash}{a5982bae521d9d3a1db295a64a5053b8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The instant messaging platform Telegram has become popular among the far-right movements in the US and UK in recent years. These groups use public Telegram channels and group chats to disseminate hate speech, disinformation, and conspiracy theories. Recent works revealed that the far-right Telegram network structure is decentralized and formed of several communities divided mostly along ideological and national lines. Here, we investigated the UK far-right network on Telegram and are interested in understanding the different roles of different channels and their influence relations. We apply a community detection method, based on the clustering of a flow of random walkers, that allows us to uncover the organization of the Telegram network in communities with different roles. We find three types of communities: (1) upstream communities contain mostly group chats that comment on content from channels in the rest of the network; (2) core communities contain broadcast channels tightly connected to each other and can be seen as forming echo chambers; (3) downstream communities contain popular channels that are highly referenced by other channels. We find that the network is composed of two main sub-networks: one containing mainly channels related to the English-speaking far-right movements and one with channels in Russian. We analyze the dynamics of the different communities and the most shared external links in the different types of communities over a period going from 2015 to 2020. We find that different types of communities have different dynamics and share links to different types of websites. We finish by discussing several directions for further work.}
+      \field{issn}{2364-8228}
+      \field{journaltitle}{Applied Network Science}
+      \field{langid}{english}
+      \field{title}{Organization and evolution of the {{UK}} far-right network on {{Telegram}}}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{7}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/F4XNYBGS/Bovet e Grindrod - 2022 - Organization and evolution of the UK far-right net.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ora.ox.ac.uk/objects/uuid:f5717551-cb03-4d6e-9aa0-6c3a41228948
+      \endverb
+      \verb{url}
+      \verb https://ora.ox.ac.uk/objects/uuid:f5717551-cb03-4d6e-9aa0-6c3a41228948
+      \endverb
+      \keyw{primary-source}
+    \endentry
+    \entry{channelTelegram}{misc}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{abstract}{How to handle channels, supergroups, gigagroups, basic groups, and what's the difference between them.}
+      \field{title}{Channels, supergroups, gigagroups and basic groups}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/YUCXFWKG/channel.html
+      \endverb
+      \verb{urlraw}
+      \verb https://core.telegram.org/api/channel
+      \endverb
+      \verb{url}
+      \verb https://core.telegram.org/api/channel
+      \endverb
+      \keyw{secondary-source}
+    \endentry
+    \entry{deroos2024}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7b30aa15d5576ef77dbc02c85ffa6975}{%
+           family={{de Roos}},
+           familyi={d\bibinitperiod},
+           given={Melissa\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e1909977cbdf556c8384d489b4ed86cc}{%
+           family={{Veldhuizen-Ochodničanová}},
+           familyi={V\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fbeb56d8d9e6893b1efc70059700f587}{%
+           family={Hanna},
+           familyi={H\bibinitperiod},
+           given={Alexis},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Inc}%
+      }
+      \strng{namehash}{240d806805192f6605a7cf6408a7be6f}
+      \strng{fullhash}{240d806805192f6605a7cf6408a7be6f}
+      \strng{bibnamehash}{240d806805192f6605a7cf6408a7be6f}
+      \strng{authorbibnamehash}{240d806805192f6605a7cf6408a7be6f}
+      \strng{authornamehash}{240d806805192f6605a7cf6408a7be6f}
+      \strng{authorfullhash}{240d806805192f6605a7cf6408a7be6f}
+      \field{sortinit}{d}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Involuntary celibates, or incels, are part of a growing online subculture. Incels are men who are unable to engage in a sexual relationship with a woman and who experience significant distress and anger as a result. In recent years, high-profile incidents of violence perpetrated by incels or those who share incel ideology have increased research attention. Incels communicate online and share several characteristics with other online extremist groups. While only a fraction of incels engage in such violence, a broader spectrum of violence should be considered, including online harassment or general violence against women. This study sought to examine how ongoing engagement on an online incel forum affects changes in incel comments in terms of expressed anger and sadness and use of incel violent extremist language. We collected comments made on an incel forum over a 3-month period. We then identified prolific users and included their comments in our analysis. To assess how their language changed, we used a text-processing program (LIWC: Linguistic Inquiry and Word Count) to assess the extent to which anger, sadness, and incel violent extremist language were expressed in the comments. Our findings indicated that incels express more anger in their comments than users on other platforms such as Reddit, Facebook, and Twitter. However, they did not express greater sadness. Further, we found that incels are already quite angry and sad when they join the forum, and they already use a fair amount of incel vocabulary. Initially, these aspects of their language increase, but they flatten over time. This pattern suggests that introduction to and embracing of incel ideology occurs elsewhere on the Internet, and prior to people joining an incel forum. Implications in terms of prevention of online radicalization and future directions are discussed.}
+      \field{issn}{0886-2605}
+      \field{journaltitle}{Journal of Interpersonal Violence}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{shorttitle}{The {{Angry Echo Chamber}}}
+      \field{title}{The {{Angry Echo Chamber}}: {{A Study}} of {{Extremist}} and {{Emotional Language Changes}} in {{Incel Communities Over Time}}}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \field{pages}{08862605241239451}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1177/08862605241239451
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/WFU7BH85/de Roos et al. - 2024 - The Angry Echo Chamber A Study of Extremist and E.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/08862605241239451
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/08862605241239451
+      \endverb
+      \keyw{secondary-source}
+    \endentry
+    \entry{hajarian2021}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d804888869d224c1d1d381f190c0fff0}{%
+           family={Hajarian},
+           familyi={H\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4f1b7c5cfe3c43945431ada3d331a74}{%
+           family={Khanbabaloo},
+           familyi={K\bibinitperiod},
+           given={Zahra},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c0332825d89d0ab02c884d9a065f4968}
+      \strng{fullhash}{c0332825d89d0ab02c884d9a065f4968}
+      \strng{bibnamehash}{c0332825d89d0ab02c884d9a065f4968}
+      \strng{authorbibnamehash}{c0332825d89d0ab02c884d9a065f4968}
+      \strng{authornamehash}{c0332825d89d0ab02c884d9a065f4968}
+      \strng{authorfullhash}{c0332825d89d0ab02c884d9a065f4968}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Incels, which stand for involuntary celibates, refer to online community members who identify themselves as individuals that women are not attracted to them. They are usually involved in misogyny and hateful conversations on social networks, leading to several terrorist attacks in recent years, also known as incel rebellion. In order to stop terrorist acts like this, the first step is to detect incels members in social networks. To this end, user-generated data can give us insights. In previous attempts to identifying incels in social media, users' likes and fuzzy likes data were considered. However, another piece of information that can be helpful to identify such social network members is users' comments. In this study, for the first time, we have considered users' comments to identify incels in the social networks. Accordingly, an algorithm using sentiment analysis was proposed. Study results show that by implementing the proposed method on social media users' comments, incel members can be identified in social networks with an accuracy of 78.8\%, which outperforms the previous work in this field by 10.05\%.}
+      \field{booktitle}{2021 7th {{International Conference}} on {{Web Research}} ({{ICWR}})}
+      \field{month}{5}
+      \field{shorttitle}{Toward {{Stopping Incel Rebellion}}}
+      \field{title}{Toward {{Stopping Incel Rebellion}}: {{Detecting Incels}} in {{Social Media Using Sentiment Analysis}}}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{169\bibrangedash 174}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICWR51868.2021.9443027
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/7UDJ3YCS/9443027.html
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/9443027
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/9443027
+      \endverb
+      \keyw{Blogs,Detection Method,Games,Incels,Machine learning,Media,secondary-source,Sentiment analysis,Sentiment Analysis,Social Media Comments,Social networking (online),Social Networks,Terrorism}
+    \endentry
+    \entry{jelodar2021}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6d7c8c87e348389cb2a53aae8595a104}{%
+           family={Jelodar},
+           familyi={J\bibinitperiod},
+           given={Hamed},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a30071888972e61ab7338a14523f40f}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{45f57361ed067384b81a266ded8b8b22}
+      \strng{fullhash}{45f57361ed067384b81a266ded8b8b22}
+      \strng{bibnamehash}{45f57361ed067384b81a266ded8b8b22}
+      \strng{authorbibnamehash}{45f57361ed067384b81a266ded8b8b22}
+      \strng{authornamehash}{45f57361ed067384b81a266ded8b8b22}
+      \strng{authorfullhash}{45f57361ed067384b81a266ded8b8b22}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Online forums provide a unique opportunity for online users to share comments and exchange information on a particular topic. Understanding user behaviour is valuable to organizations and has applications for social and security strategies, for instance, identifying user opinions within a community or predicting future behaviour. Discovering the semantic aspects in Incel forums are the main goal of this research; we apply Natural language processing techniques based on topic modeling to latent topic discovery and opinion mining of users from a popular online Incel discussion forum. To prepare the input data for our study, we extracted the comments from Incels.co. The research experiments show that Artificial Intelligence (AI) based on NLP models can be effective for semantic and emotion knowledge discovery and retrieval of useful information from the Incel community. For example, we discovered semantic-related words that describe issues within a large volume of Incel comments, which is difficult with manual methods.}
+      \field{eprintclass}{cs}
+      \field{eprinttype}{arxiv}
+      \field{month}{4}
+      \field{number}{arXiv:2104.09586}
+      \field{shorttitle}{Semantic {{Knowledge Discovery}} and {{Discussion Mining}} of {{Incel Online Community}}}
+      \field{title}{Semantic {{Knowledge Discovery}} and {{Discussion Mining}} of {{Incel Online Community}}: {{Topic}} modeling}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2104.09586
+      \endverb
+      \verb{eprint}
+      \verb 2104.09586
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/BK7Q4PKX/Jelodar e Frank - 2021 - Semantic Knowledge Discovery and Discussion Mining.pdf;/Users/sava/Zotero/storage/RGAE35AL/2104.html
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/2104.09586
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/2104.09586
+      \endverb
+      \keyw{Computer Science - Artificial Intelligence,secondary-source}
+    \endentry
+    \entry{mamie2021}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9b0336b43d3e04db128703006d992326}{%
+           family={Mamié},
+           familyi={M\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=641cc5da1bcebb991839a628fcd3350a}{%
+           family={Horta\bibnamedelima Ribeiro},
+           familyi={H\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Manoel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d2787872d7eadcedce1aeb8e7af9eb0}{%
+           family={West},
+           familyi={W\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{be1d1c8f54b29a39b32b33b6ac7068b5}
+      \strng{fullhash}{be1d1c8f54b29a39b32b33b6ac7068b5}
+      \strng{bibnamehash}{be1d1c8f54b29a39b32b33b6ac7068b5}
+      \strng{authorbibnamehash}{be1d1c8f54b29a39b32b33b6ac7068b5}
+      \strng{authornamehash}{be1d1c8f54b29a39b32b33b6ac7068b5}
+      \strng{authorfullhash}{be1d1c8f54b29a39b32b33b6ac7068b5}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Researchers have suggested that “the Manosphere,” a conglomerate of men-centered online communities, may serve as a gateway to far right movements. In that context, this paper quantitatively studies the migratory patterns between a variety of groups within the Manosphere and the Alt-right, a loosely connected far right movement that has been particularly active in mainstream social networks. Our analysis leverages over 300 million comments spread through Reddit (in 115 subreddits) and YouTube (in 526 channels) to investigate whether the audiences of channels and subreddits associated with these communities have converged between 2006 and 2018. In addition to subreddits related to the communities of interest, we also collect data on counterparts: other groups of users which we use for comparison (e.g., for YouTube we use a set of media channels). Besides measuring the similarity in the commenting user bases of these communities, we perform a migration study, calculating to which extent users in the Manosphere gradually engage with Alt-right content. Our results suggest that there is a large overlap between the user bases of the Alt-right and of the Manosphere and that members of the Manosphere have a bigger chance to engage with far right content than carefully chosen counterparts. However, our analysis also shows that migration and user base overlap varies substantially across different platforms and within the Manosphere. Members of some communities (e.g., Men’s Rights Activists) gradually engage with the Alt-right significantly more than counterparts on both Reddit and YouTube, whereas for other communities, this engagement happens mostly on Reddit (e.g., Pick Up Artists). Overall, our work paints a nuanced picture of the pipeline between the Manosphere and the Alt-right, which may inform platforms’ policies and moderation decisions regarding these communities.}
+      \field{booktitle}{Proceedings of the 13th {{ACM Web Science Conference}} 2021}
+      \field{isbn}{978-1-4503-8330-1}
+      \field{month}{6}
+      \field{series}{{{WebSci}} '21}
+      \field{shorttitle}{Are {{Anti-Feminist Communities Gateways}} to the {{Far Right}}?}
+      \field{title}{Are {{Anti-Feminist Communities Gateways}} to the {{Far Right}}? {{Evidence}} from {{Reddit}} and {{YouTube}}}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{139\bibrangedash 147}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1145/3447535.3462504
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/HMCAZ57E/Mamié et al. - 2021 - Are Anti-Feminist Communities Gateways to the Far .pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3447535.3462504
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3447535.3462504
+      \endverb
+      \keyw{fringe communities,manosphere,primary-source,radicalization,Reddit,YouTube}
+    \endentry
+    \entry{nagle2017}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=611faa3d6e72076f9465b5725dfc95e6}{%
+           family={Nagle},
+           familyi={N\bibinitperiod},
+           given={Angela},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Alresford, GBR}%
+      }
+      \list{publisher}{1}{%
+        {Zero Books}%
+      }
+      \strng{namehash}{611faa3d6e72076f9465b5725dfc95e6}
+      \strng{fullhash}{611faa3d6e72076f9465b5725dfc95e6}
+      \strng{bibnamehash}{611faa3d6e72076f9465b5725dfc95e6}
+      \strng{authorbibnamehash}{611faa3d6e72076f9465b5725dfc95e6}
+      \strng{authornamehash}{611faa3d6e72076f9465b5725dfc95e6}
+      \strng{authorfullhash}{611faa3d6e72076f9465b5725dfc95e6}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Recent years have seen a revival of the heated culture wars of the 1990s, but this time its battle ground is the internet. On one side the alt right ranges from the once obscure neo-reactionary and white separatist movements, to geeky subcultures like 4chan, to more mainstream manifestations such as the Trump-supporting gay libertarian Milo Yiannopolous. On the other side, a culture of struggle sessions and virtue signalling lurks behind a therapeutic language of trigger warnings and safe spaces. The feminist side of the online culture wars has its equally geeky subcultures right through to its mainstream expression. Kill All Normies explores some of the cultural genealogies and past parallels of these styles and subcultures, drawing from transgressive styles of 60s libertinism and conservative movements, to make the case for a rejection of the perpetual cultural turn.}
+      \field{isbn}{978-1-78535-543-1}
+      \field{month}{5}
+      \field{shorttitle}{Kill {{All Normies}}}
+      \field{title}{Kill {{All Normies}}: {{Online Culture Wars From 4Chan And Tumblr To Trump And The Alt-Right}}}
+      \field{year}{2017}
+      \keyw{secondary-source}
+    \endentry
+    \entry{pelzer2021}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c7b3f96d06dcfe973e8efbbcbc125358}{%
+           family={Pelzer},
+           familyi={P\bibinitperiod},
+           given={Björn},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e4bc9a4335b29e6f594e1f5b600fbb0e}{%
+           family={Kaati},
+           familyi={K\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91b7a417b07e9e3846ab6519981eb2ed}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Katie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=528d04f8263511f1c0ccf830b4408ad0}{%
+           family={Fernquist},
+           familyi={F\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{18115a7d79a3900778a6996f4b63253d}
+      \strng{fullhash}{1f7088fe0933acb52c104fedcff38eb1}
+      \strng{bibnamehash}{18115a7d79a3900778a6996f4b63253d}
+      \strng{authorbibnamehash}{18115a7d79a3900778a6996f4b63253d}
+      \strng{authornamehash}{18115a7d79a3900778a6996f4b63253d}
+      \strng{authorfullhash}{1f7088fe0933acb52c104fedcff38eb1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The internet-based incel subculture has evolved over the past decade on a number of different platforms. The subculture is known to be toxic and has become associated with several high-profile cases of lethal violence. In this paper, we study the level of toxic language and its targets on three large incel forums: incels.co, lookism.net and looksmax.me. These three forums are the most well-known and active online platforms where incels meet and discuss. Our results show that even though usage of toxic language is pervasive on all three forums, they exhibit significant differences in the composition of their toxicity. These differences correspond to different groups or philosophies within the incel communites.}
+      \field{issn}{2662-9283}
+      \field{journaltitle}{SN Social Sciences}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Toxic language in online incel communities}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{1}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{213}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s43545-021-00220-8
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/8J5GKP2R/Pelzer et al. - 2021 - Toxic language in online incel communities.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s43545-021-00220-8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s43545-021-00220-8
+      \endverb
+      \keyw{Forums,Hate,Incels,secondary-source,Social media,Toxic language}
+    \endentry
+    \entry{radicchi2004}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=7bf86f8cac7f65e65f53c7cd54661e36}{%
+           family={Radicchi},
+           familyi={R\bibinitperiod},
+           given={Filippo},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f995e83b34c1fad8cc8ec5fccfc9629}{%
+           family={Castellano},
+           familyi={C\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b357b38293ed1ce100931f5c707eea23}{%
+           family={Cecconi},
+           familyi={C\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7144c0bfd01cbf1afe3f7fd7b9650abe}{%
+           family={Loreto},
+           familyi={L\bibinitperiod},
+           given={Vittorio},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c3e92438e1b771c3e7064b69d0f9b86}{%
+           family={Parisi},
+           familyi={P\bibinitperiod},
+           given={Domenico},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Proceedings of the National Academy of Sciences}%
+      }
+      \strng{namehash}{6289e91443b0074791366995af1189cf}
+      \strng{fullhash}{353502309a25f5cbc342f65135c4937a}
+      \strng{bibnamehash}{6289e91443b0074791366995af1189cf}
+      \strng{authorbibnamehash}{6289e91443b0074791366995af1189cf}
+      \strng{authornamehash}{6289e91443b0074791366995af1189cf}
+      \strng{authorfullhash}{353502309a25f5cbc342f65135c4937a}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The investigation of community structures in networks is an important issue in many domains and disciplines. This problem is relevant for social tasks (objective analysis of relationships on the web), biological inquiries (functional studies in metabolic and protein networks), or technological problems (optimization of large infrastructures). Several types of algorithms exist for revealing the community structure in networks, but a general and quantitative definition of community is not implemented in the algorithms, leading to an intrinsic difficulty in the interpretation of the results without any additional nontopological information. In this article we deal with this problem by showing how quantitative definitions of community are implemented in practice in the existing algorithms. In this way the algorithms for the identification of the community structure become fully self-contained. Furthermore, we propose a local algorithm to detect communities which outperforms the existing algorithms with respect to computational cost, keeping the same level of reliability. The algorithm is tested on artificial and real-world graphs. In particular, we show how the algorithm applies to a network of scientific collaborations, which, for its size, cannot be attacked with the usual methods. This type of local algorithm could open the way to applications to large-scale technological and biological systems.}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{3}
+      \field{number}{9}
+      \field{title}{Defining and identifying communities in networks}
+      \field{urlday}{22}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{101}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \field{pages}{2658\bibrangedash 2663}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1073/pnas.0400054101
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/SYXP24XX/Radicchi et al. - 2004 - Defining and identifying communities in networks.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pnas.org/doi/full/10.1073/pnas.0400054101
+      \endverb
+      \verb{url}
+      \verb https://www.pnas.org/doi/full/10.1073/pnas.0400054101
+      \endverb
+      \keyw{secondary-source}
+    \endentry
+    \entry{rogers2020}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0c6c130a4ae337ed74e037d29dbf34fa}{%
+           family={Rogers},
+           familyi={R\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Ltd}%
+      }
+      \strng{namehash}{0c6c130a4ae337ed74e037d29dbf34fa}
+      \strng{fullhash}{0c6c130a4ae337ed74e037d29dbf34fa}
+      \strng{bibnamehash}{0c6c130a4ae337ed74e037d29dbf34fa}
+      \strng{authorbibnamehash}{0c6c130a4ae337ed74e037d29dbf34fa}
+      \strng{authornamehash}{0c6c130a4ae337ed74e037d29dbf34fa}
+      \strng{authorfullhash}{0c6c130a4ae337ed74e037d29dbf34fa}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Extreme, anti-establishment actors are being characterized increasingly as ‘dangerous individuals’ by the social media platforms that once aided in making them into ‘Internet celebrities’. These individuals (and sometimes groups) are being ‘deplatformed’ by the leading social media companies such as Facebook, Instagram, Twitter and YouTube for such offences as ‘organised hate’. Deplatforming has prompted debate about ‘liberal big tech’ silencing free speech and taking on the role of editors, but also about the questions of whether it is effective and for whom. The research reported here follows certain of these Internet celebrities to Telegram as well as to a larger alternative social media ecology. It enquires empirically into some of the arguments made concerning whether deplatforming ‘works’ and how the deplatformed use Telegram. It discusses the effects of deplatforming for extreme Internet celebrities, alternative and mainstream social media platforms and the Internet at large. It also touches upon how social media companies’ deplatforming is affecting critical social media research, both into the substance of extreme speech as well as its audiences on mainstream as well as alternative platforms.}
+      \field{issn}{0267-3231}
+      \field{journaltitle}{European Journal of Communication}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{3}
+      \field{shorttitle}{Deplatforming}
+      \field{title}{Deplatforming: {{Following}} extreme {{Internet}} celebrities to {{Telegram}} and alternative social media}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{35}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \field{pages}{213\bibrangedash 229}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1177/0267323120922066
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/IJJCVR6J/Rogers - 2020 - Deplatforming Following extreme Internet celebrit.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/0267323120922066
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/0267323120922066
+      \endverb
+      \keyw{secondary-source}
+    \endentry
+    \entry{solea2023}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e49e62ce66d47c4e68ce1b79f7d48681}{%
+           family={Solea},
+           familyi={S\bibinitperiod},
+           given={Anda\bibnamedelima Iulia},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76e9621b4e31545f23654ce73fda9ec2}{%
+           family={Sugiura},
+           familyi={S\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{73f0fe1a7c502f61780535397fd675b0}
+      \strng{fullhash}{73f0fe1a7c502f61780535397fd675b0}
+      \strng{bibnamehash}{73f0fe1a7c502f61780535397fd675b0}
+      \strng{authorbibnamehash}{73f0fe1a7c502f61780535397fd675b0}
+      \strng{authornamehash}{73f0fe1a7c502f61780535397fd675b0}
+      \strng{authorfullhash}{73f0fe1a7c502f61780535397fd675b0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Incels (involuntary celibates), a subgroup of the so called ‘manosphere,’ have become an increasing security concern for policymakers, researchers, and practitioners following their association with several violent attacks. Once mostly contained on niche men’s forums, redpilled and blackpilled communities and theories are gaining prominence on mainstream social media platforms. However, whilst previous research considerably enhanced our understanding of the incel phenomenon and their presence on Reddit and secluded incel forums, incel’s presence on mainstream social media platforms is understudied and their presence on TikTok is yet to be addressed. The present paper examines the incel subculture on TikTok, through an analysis of incel accounts, videos and their respective comments, to understand the role mainstream social media platforms play in the ‘normiefication’ and normalisation of incel ideology and discourse. The findings suggest that on TikTok the expression of incel ideology takes a covert form, employing emotional appeals and pseudo-science to disseminate common incelosphere tropes. Further, we demonstrate how the process of mainstreaming incel beliefs is facilitated by their interconnectedness with wider sexism and structural misogyny. The harms generating from this association are conducive to the normalisation of blackpill beliefs and the reinforcement of misogyny, sexism and justification of rape culture.}
+      \field{issn}{1572-9869}
+      \field{journaltitle}{European Journal on Criminal Policy and Research}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{3}
+      \field{shorttitle}{Mainstreaming the {{Blackpill}}}
+      \field{title}{Mainstreaming the {{Blackpill}}: {{Understanding}} the {{Incel Community}} on {{TikTok}}}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{29}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{311\bibrangedash 336}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1007/s10610-023-09559-5
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/MGT9UMY8/Solea e Sugiura - 2023 - Mainstreaming the Blackpill Understanding the Inc.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s10610-023-09559-5
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s10610-023-09559-5
+      \endverb
+      \keyw{Incels,Mainstream media,Online harms,Online misogyny,secondary-source,TikTok}
+    \endentry
+    \entry{sugiura2021a}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=76e9621b4e31545f23654ce73fda9ec2}{%
+           family={Sugiura},
+           familyi={S\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76e9621b4e31545f23654ce73fda9ec2}{%
+           family={Sugiura},
+           familyi={S\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Emerald Publishing Limited}%
+      }
+      \strng{namehash}{ff51aa680e7c3a57836b39dde31c4aab}
+      \strng{fullhash}{ff51aa680e7c3a57836b39dde31c4aab}
+      \strng{bibnamehash}{ff51aa680e7c3a57836b39dde31c4aab}
+      \strng{authorbibnamehash}{ff51aa680e7c3a57836b39dde31c4aab}
+      \strng{authornamehash}{ff51aa680e7c3a57836b39dde31c4aab}
+      \strng{authorfullhash}{ff51aa680e7c3a57836b39dde31c4aab}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{Incel Rebellion}}: {{The Rise}} of the {{Manosphere}} and the {{Virtual War Against Women}}}
+      \field{isbn}{978-1-83982-257-5 978-1-83982-254-4}
+      \field{month}{1}
+      \field{series}{Emerald {{Studies In Digital Crime}}, {{Technology}} and {{Social Harms}}}
+      \field{title}{An {{Introduction}} to {{Incel}}}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1108/978-1-83982-254-420211002
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/9IBWCH7S/Sugiura e Sugiura - 2021 - An Introduction to Incel.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1108/978-1-83982-254-420211002
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1108/978-1-83982-254-420211002
+      \endverb
+      \keyw{secondary-source}
+    \endentry
+    \entry{sugiura2021}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=76e9621b4e31545f23654ce73fda9ec2}{%
+           family={Sugiura},
+           familyi={S\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76e9621b4e31545f23654ce73fda9ec2}{%
+           family={Sugiura},
+           familyi={S\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Emerald Publishing Limited}%
+      }
+      \strng{namehash}{ff51aa680e7c3a57836b39dde31c4aab}
+      \strng{fullhash}{ff51aa680e7c3a57836b39dde31c4aab}
+      \strng{bibnamehash}{ff51aa680e7c3a57836b39dde31c4aab}
+      \strng{authorbibnamehash}{ff51aa680e7c3a57836b39dde31c4aab}
+      \strng{authornamehash}{ff51aa680e7c3a57836b39dde31c4aab}
+      \strng{authorfullhash}{ff51aa680e7c3a57836b39dde31c4aab}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {{Incel Rebellion}}: {{The Rise}} of the {{Manosphere}} and the {{Virtual War Against Women}}}
+      \field{isbn}{978-1-83982-257-5 978-1-83982-254-4}
+      \field{month}{1}
+      \field{series}{Emerald {{Studies In Digital Crime}}, {{Technology}} and {{Social Harms}}}
+      \field{title}{The {{Emergence}} and {{Development}} of the {{Manosphere}}}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{15\bibrangedash 36}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1108/978-1-83982-254-420211004
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/JQ65KUYR/Sugiura e Sugiura - 2021 - The Emergence and Development of the Manosphere.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1108/978-1-83982-254-420211004
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1108/978-1-83982-254-420211004
+      \endverb
+      \keyw{secondary-source}
+    \endentry
+    \entry{vanvalkenburgh2021}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1f0c8b5574126cf09851b19928c40aec}{%
+           family={Van\bibnamedelima Valkenburgh},
+           familyi={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Shawn\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Inc}%
+      }
+      \strng{namehash}{1f0c8b5574126cf09851b19928c40aec}
+      \strng{fullhash}{1f0c8b5574126cf09851b19928c40aec}
+      \strng{bibnamehash}{1f0c8b5574126cf09851b19928c40aec}
+      \strng{authorbibnamehash}{1f0c8b5574126cf09851b19928c40aec}
+      \strng{authornamehash}{1f0c8b5574126cf09851b19928c40aec}
+      \strng{authorfullhash}{1f0c8b5574126cf09851b19928c40aec}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This article undertakes the first known qualitative study focusing on The Red Pill, an online forum wherein heterosexual men attempt to improve their seduction skills by discussing evolutionary psychology and economic theories. My content analysis of twenty-six documents (130,000 words) designated by the community as central to its purpose and ideology shows that The Red Pill is not just an expression of hegemonic masculinity but also explicitly integrates neoliberal and scientific discourses into its seduction strategies. I theorize that the resulting philosophy superficially resolves a contradiction between hegemonic masculinity’s prescriptive emotional walls and an inherent desire for connection by constructing women as exchangeable commodities.}
+      \field{issn}{1097-184X}
+      \field{journaltitle}{Men and Masculinities}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{1}
+      \field{shorttitle}{Digesting the {{Red Pill}}}
+      \field{title}{Digesting the {{Red Pill}}: {{Masculinity}} and {{Neoliberalism}} in the {{Manosphere}}}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{24}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \field{pages}{84\bibrangedash 103}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1177/1097184X18816118
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/UZ76FNIF/Van Valkenburgh - 2021 - Digesting the Red Pill Masculinity and Neoliberal.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/1097184X18816118
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/1097184X18816118
+      \endverb
+      \keyw{secondary-source}
+    \endentry
+    \entry{weimann2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=373672035d4c85c40bf16c6509488cb9}{%
+           family={Weimann},
+           familyi={W\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Terrorism Research Institute}%
+      }
+      \strng{namehash}{373672035d4c85c40bf16c6509488cb9}
+      \strng{fullhash}{373672035d4c85c40bf16c6509488cb9}
+      \strng{bibnamehash}{373672035d4c85c40bf16c6509488cb9}
+      \strng{authorbibnamehash}{373672035d4c85c40bf16c6509488cb9}
+      \strng{authornamehash}{373672035d4c85c40bf16c6509488cb9}
+      \strng{authorfullhash}{373672035d4c85c40bf16c6509488cb9}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The terms Deep Web, Deep Net, Invisible Web, or Dark Web refer to the content on the World Wide Web that is not indexed by standard search engines. The deepest layers of the Deep Web, a segment known as the Dark Web, contain content that has been intentionally concealed including illegal and anti-social information. The conventional Surface Web was discovered to be too risky for anonymity-seeking terrorists: they could be monitored, traced, and found. In contrast, on the Dark Web, decentralized and anonymous networks aid in evading arrest and the closure of these terrorist platforms. This paper reports some of the recent trends in terrorist use of the Dark Web for communication, fundraising, storing information and online material.}
+      \field{eprinttype}{jstor}
+      \field{issn}{2334-3745}
+      \field{journaltitle}{Perspectives on Terrorism}
+      \field{number}{3}
+      \field{title}{Terrorist {{Migration}} to the {{Dark Web}}}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{10}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \field{pages}{40\bibrangedash 44}
+      \range{pages}{5}
+      \verb{eprint}
+      \verb 26297596
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/3DWNF8DW/Weimann - 2016 - Terrorist Migration to the Dark Web.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.jstor.org/stable/26297596
+      \endverb
+      \verb{url}
+      \verb https://www.jstor.org/stable/26297596
+      \endverb
+      \keyw{secondary-source}
+    \endentry
+    \entry{willaert2023}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b70d57455bbc23d581b354a0c7c0213}{%
+           family={Willaert},
+           familyi={W\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science}%
+      }
+      \strng{namehash}{3b70d57455bbc23d581b354a0c7c0213}
+      \strng{fullhash}{3b70d57455bbc23d581b354a0c7c0213}
+      \strng{bibnamehash}{3b70d57455bbc23d581b354a0c7c0213}
+      \strng{authorbibnamehash}{3b70d57455bbc23d581b354a0c7c0213}
+      \strng{authornamehash}{3b70d57455bbc23d581b354a0c7c0213}
+      \strng{authorfullhash}{3b70d57455bbc23d581b354a0c7c0213}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper offers an empirical investigation of the narrative profiles afforded by public, one-way messaging channels on Telegram. We define these narrative profiles in terms of the contribution of messages to a thread of narrative continuity, and test the double hypothesis that 1) Telegram channels afford diverse narrative profiles, corresponding with distinct vernacular uses of the platform’s features, and that 2) networks of Telegram channels sampled from thematically distinct seed channels lean towards distinct profiles. To this end, we analyse the textual contents of 2,724,187 messages from 492 public messaging channels spanning five thematic networks. Our computational method builds up the narrative profiles by scrolling down channels and classifying each message according to its narrative fit with the surrounding messages. We thus find that Telegram channels afford several distinct storytelling profiles, which tend to defy traditional notions of narrative coherence. We furthermore observe correspondences between the thematic orientations of channels and their narrative profiles, with a preference for disparate profiles in channels pertaining to conspiracy theories and far-right counterculture, a preference for coherent profiles in channels pertaining to cryptocurrencies, and mixed types in channels pertaining to disinformation about the war in Ukraine. These empirical observations thus inform our further theorization on how platform features allow users to construct and shape narratives online.}
+      \field{issn}{1932-6203}
+      \field{journaltitle}{PLOS ONE}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{A computational analysis of {{Telegram}}’s narrative affordances}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{volume}{18}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \field{pages}{e0293508}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0293508
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/TVRWPX3L/Willaert - 2023 - A computational analysis of Telegram’s narrative a.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293508
+      \endverb
+      \verb{url}
+      \verb https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293508
+      \endverb
+      \keyw{Elections,Facebook,Hierarchical clustering,Linguistic morphology,Natural language processing,secondary-source,Social media,Syntax,Twitter}
+    \endentry
+    \entry{willaert2022}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3b70d57455bbc23d581b354a0c7c0213}{%
+           family={Willaert},
+           familyi={W\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09abef8cfa7c3a40ccece0674a481ef1}{%
+           family={Peeters},
+           familyi={P\bibinitperiod},
+           given={Stijn},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de844cec6a0b6497ae1a5344f7008de4}{%
+           family={Seijbel},
+           familyi={S\bibinitperiod},
+           given={Jasmin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3c2f1578b72f57ca1f391abe4ca2fd7}{%
+           family={Raemdonck},
+           familyi={R\bibinitperiod},
+           given={Nathalie\bibnamedelima Van},
+           giveni={N\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4a16171914e97473314b64ab5193ff21}
+      \strng{fullhash}{5bbb1e887351540b62d9669ee422a1ab}
+      \strng{bibnamehash}{4a16171914e97473314b64ab5193ff21}
+      \strng{authorbibnamehash}{4a16171914e97473314b64ab5193ff21}
+      \strng{authornamehash}{4a16171914e97473314b64ab5193ff21}
+      \strng{authorfullhash}{5bbb1e887351540b62d9669ee422a1ab}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In the field of disinformation research, the study of antagonistic networks and discourse on the messaging platform Telegram has developed into an active area of investigation. To this end, recent literature has specifically set out to map the scale, scope, and narrative trends marking Telegram communities with ties to localised, European contexts. The present paper contributes to this line of inquiry by offering an empirically-informed exploration of far-right and conspiracist Telegram channels associated with Flanders and the Netherlands. Building on previous observations concerning the propagation of disinformation on social media, the paper proposes a typology of the antagonistic discourse and narratives that circulate within these public channels. It thereby seeks to reconcile the comprehensive perspectives afforded by ‘big data’ approaches with the analysis of Telegram in an event– and culture–specific context. Covering the period March 2017–July 2021, this paper specifically considers an inductively collected dataset of 215 public Telegram channels and 371,951 messages pertaining to the relevant contexts, and bridges gaps between quantitative and qualitative methods by combining visual network analysis with discourse analysis. This combined approach reveals an expanding, highly diverse and dynamic network of Telegram channels, marked by overlapping antagonistic narratives, including traces of international conspiracy theories such as ‘The Great Reset’ and QAnon. These observations contribute to our understanding of how an emerging ‘alt-tech’ platform harbours and interconnects antagonistic actors and narratives in a specific linguistic and political context.}
+      \field{issn}{1396-0466}
+      \field{journaltitle}{First Monday}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{shorttitle}{Disinformation networks}
+      \field{title}{Disinformation networks: {{A}} quali-quantitative investigation of antagonistic {{Dutch-speaking Telegram}} channels}
+      \field{urlday}{19}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.5210/fm.v27i5.12533
+      \endverb
+      \verb{file}
+      \verb /Users/sava/Zotero/storage/YGKT677K/Willaert et al. - 2022 - Disinformation networks A quali-quantitative inve.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://firstmonday.org/ojs/index.php/fm/article/view/12533
+      \endverb
+      \verb{url}
+      \verb https://firstmonday.org/ojs/index.php/fm/article/view/12533
+      \endverb
+      \keyw{alt platforms,conspiracism,digital methods,discourse analysis,far-right extremism,network analysis,secondary-source,Telegram}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
