@@ -1,4 +1,5 @@
-Github repository with code and data used for first year (M1) memoire of Digital Humanities at École Nationale des Chartes
+Github repository with code and data used for first year (M1) memoire of Digital Humanities at École Nationale des Chartes. <br><br>
+This is a repository created with the explicit purpose of a public presentation of the research. The working repository, which contains more data and files with private credentials to access the Telegram API, is not public. To access it, ask permission to the author,
 
 <br><br>
 
