@@ -1,4 +1,4 @@
-Data downloaded 5th of april
+Github repository with code and data used for first year (M1) memoire of Digital Humanities at École Nationale des Chartes
 
 <br><br>
 
